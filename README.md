@@ -28,7 +28,7 @@ The first image is the processor running in the VS Code environment.
 
 ![Smoker Python Producer Running in VS Code](./images/SmokerPythonApp.JPG)
 
-The next several images will show the RabbitMQ admin web Management
+The next several images will show the RabbitMQ admin web Management.
 
 ![Reading from .csv and sending/receiving with multiplt terminals](./images/RabbitMQ_Overview.JPG)
 ![Reading from .csv and sending/receiving with multiplt terminals](./images/Smoker_Queue1.JPG)
